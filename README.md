@@ -1,5 +1,5 @@
 # 🌟 Social Media App — Frontend (API Playground)
-
+## Live Demo https://medhat12866.github.io/social-media-App/
 ## 🟣 Project Description
 
 This **Social Media App** is a **frontend application** designed as **an API playground**.  
