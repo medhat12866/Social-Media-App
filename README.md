@@ -44,4 +44,4 @@ To view or run this application:
 1️⃣ **Clone this repository:**
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/medhat12866/social-media-App.git
