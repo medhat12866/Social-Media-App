@@ -1,0 +1,14 @@
+.error {
+  text-align: center;
+  font-size: 25px;
+  padding: 20px 25px;
+  border-radius: 8px;
+  background-color: #fff;
+  box-shadow: 5px 5px 12px 1px hsla(0, 0%, 36%, 0.337);
+}
+.error span {
+  display: block;
+  text-align: center;
+  font-size: 32px;
+  font-weight: bold;
+}
